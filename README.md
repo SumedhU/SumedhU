@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+#### I am a full stack developer
+- ⚙️ I use daily: `.dart`, `.tsx`, `.php`
+- 🔭 I’m currently working on Brightbell
 <!--
 **SumedhU/SumedhU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
